@@ -5,7 +5,7 @@ public class Imprimir {
                     .println("Aja programa de prueba para repo en Git  falso");
             dato = false;
         } else {
-            System.out.println("Aja programa de prueba para repo en Git true");
+            System.out.println("Aja programa de prueba para epaaa  preubaa repo en Git true");
             dato = true;
         }
         return dato;
